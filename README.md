@@ -1,4 +1,4 @@
-# ANN-from-scratch
+# ANN-From-Scratch
 Implementation of a multi layer perceptron artificial neural network from scratch that is tested using the MNIST dataset.
 
 ## Prerequisites
